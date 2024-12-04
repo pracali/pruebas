@@ -1,0 +1,667 @@
+{
+  "type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "AKIL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.35793781633676, 20.27150185483682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "CHUBURNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.63562885756743, 21.020878686265384]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "OXKUTZCAB l"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.4111733533186, 20.301375885867735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "OXKUTZCAB ll"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.4162926495108, 20.307780862880094]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "PLAZA ORIENTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.5920080386693, 20.961128902776718]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "ROMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.64252422637493, 20.989433595082392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "TANLUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.62635644528045, 20.998554687378235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "TEKAX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.30046013045903, 20.213287953031198]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "TICUL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.53384492427863, 20.40231274990621]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "TICUL II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.552126860654, 20.397566342188906]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "YUCATAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.62377655715137, 20.99712628750772]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "AEROPUERTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.62909894332346, 20.934937691989163]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "AV. 86"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.64972942056797, 20.905831851079896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "AZCORRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.60184315972339, 20.953843862127094]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "CALKINI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -90.04846900225026, 20.378849045107014]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "JUAN PABLO ll"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.67726835143961, 20.96864189035874]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "MAXCANU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.98969611154995, 20.592649445878482]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "MELCHOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.56529124856374, 20.976234389551145]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "PERIFERICO SUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.69793590475841, 20.943480249123056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "SANTA CRUZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.69293300655319, 20.894186900938738]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "SEYBA PLAYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -90.68480561078445, 19.62392220311395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "TIXCACAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.68672528423356, 20.95027978842179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "ANIKABIL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.6825147456185, 20.994453843723633]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "ANIMAYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.71424688026792, 20.988497988984527]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "AV. 128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.66329625683557, 20.992334000119484]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "CAUCEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.68927549537247, 21.0001173435979]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "CELESTUN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -90.40041783571299, 20.852252685392013]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "HUNUCMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.86934310841201, 21.01294939443374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "PORVENIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.67199923671947, 20.995343596841263]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "UMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.7285334809709, 20.899061852452952]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "VALLADOLID 39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -88.21108308373283, 20.69271474127915]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "VALLADOLID AUTOPISTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -88.22876693640292, 20.74748581826325]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "VALLADOLID CENTRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -88.20078448991897, 20.68109599144504]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "VALLADOLID MILITARES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -88.1891127748657, 20.691579213190423]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "42 SUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.60499730235317, 20.922123071088787]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "BUENAVISTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.62168538401976, 20.9974718010369]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "COL.MEXICO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.60814782823225, 21.002457860170963]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "CUAUHTEMOC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.57002949928001, 20.93324959809624]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "DZIUCHE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -88.81327464032867, 19.901033714920448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "KANASIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.56114672627648, 20.963631519150784]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "MEXICO NORTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.60637672395029, 20.9985498944462]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "MULCHECHEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.57426540473453, 20.942212824289193]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "PETO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -88.92334926872759, 20.123866808377084]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "TEABO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.3069803596409, 20.404449937757374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "TEPICH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.49301448819334, 20.86567935405935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "UPTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.58051557575136, 21.012679003080482]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "AMERICAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.64429386051856, 21.05828959305554]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "AMERICAS II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.65765535040606, 21.07417395832718]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "BUCTZOTZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -88.80414768579628, 21.20117392517739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "CALLE 10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.59110445947941, 21.03445194578085]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "CONKAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.52046982892045, 21.108022242767742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "JARDINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.56716191135648, 21.02088860456762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "MOCOCHA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.39927522671759, 21.103419917770395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "MOTUL MONTY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.30014418205045, 21.097219887049278]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "MOTUL PERIFERICO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.28141209385001, 21.115232996989203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "PROGRESO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.67684883654032, 21.286687318523317]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "SERVICIO 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.65196097583522, 21.0406542199726]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "YUCALPETEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.70499604895925, 21.27379869583177]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "115 NORTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -87.09392284315321, 20.640684931426502]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "115 SUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -87.10186206204436, 20.629337488711652]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "COLOSIO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -87.0804947887982, 20.65792531000106]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "CRUZ DE SERVICIO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -87.08855302250642, 20.64649049968891]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "CTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -87.09849968484058, 20.66043910359436]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "TULUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -87.4544358997125, 20.2178336680973]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "50 SUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -89.6205890664423, 20.920498349975674]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "EST_NAME": "TULUM II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -87.45473550666581, 20.217534240076905]
+      }
+
+    }
+  ]
+}
