@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "properties": {
+    "EST_NAME": "AKIL",
+    "lat": 20.27150185483682,
+    "lng": -89.35793781633676
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -89.35793781633676, 20.27150185483682]
+  }
+}
