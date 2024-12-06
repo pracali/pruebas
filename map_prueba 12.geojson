@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"est_name":"AKIL"},"geometry":{"coordinates":[-89.35793781633676,20.27150185483682],"type":"Point"},"id":0},{"type":"Feature","properties":{"est_name":"CHUBURNA"},"geometry":{"coordinates":[-89.63562885756743,21.020878686265384],"type":"Point"},"id":1}]}
