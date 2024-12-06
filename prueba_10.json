@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.35793781633676, 20.27150185483682]
+      },
+      "properties": {
+        "EST_NAME": "AKIL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.63562885756743, 21.020878686265384]
+      },
+      "properties": {
+         "EST_NAME": "CHUBURNA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.4111733533186, 20.301375885867735]
+      },
+      "properties": {
+        "EST_NAME": "OXKUTZCAB l"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.4162926495108, 20.307780862880094]
+      },
+      "properties": {
+        "EST_NAME": "OXKUTZCAB ll"
+      }
+    }
+  ]
+}
